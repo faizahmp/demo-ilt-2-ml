@@ -1,0 +1,1 @@
+elif score>= 60
